@@ -1,0 +1,13 @@
+.imge{
+    height: 300px;width: 900px;  margin-right: 50%;
+    margin-left: 50%;
+}
+#pog{
+    height: 100%;width: 100%;
+}
+body{
+    background-color: chocolate;
+}
+div{
+    background-color: brown;width: 100%;
+}
